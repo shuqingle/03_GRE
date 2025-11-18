@@ -129,6 +129,7 @@
     <ClCompile Include="C004_Variable.c" />
     <ClCompile Include="C005_Const.c" />
     <ClCompile Include="C006_V_Range.c" />
+    <ClCompile Include="C007_TypeTrans.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

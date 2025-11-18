@@ -2,7 +2,7 @@
 #include<limits.h>
 #include<float.h>
 
-int main(void) {
+int main006(void) {
 	printf("char:\n");
 	printf("signed char :%d to %d\n", SCHAR_MIN, SCHAR_MAX);
 	printf("unsigned char :0 to %u\n", UCHAR_MAX);
