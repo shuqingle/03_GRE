@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(void) {
+int main007(void) {
 	int x = 10;
 	double y = 2.5;
 	double sum = x + y;
