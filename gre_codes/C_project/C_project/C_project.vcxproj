@@ -132,6 +132,9 @@
     <ClCompile Include="C007_TypeTrans.c" />
     <ClCompile Include="C008_wei.c" />
     <ClCompile Include="C009_cond.c" />
+    <ClCompile Include="C010_switch.c" />
+    <ClCompile Include="C011_loop.c" />
+    <ClCompile Include="C012_arr.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
