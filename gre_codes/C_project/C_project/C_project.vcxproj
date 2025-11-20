@@ -135,6 +135,7 @@
     <ClCompile Include="C010_switch.c" />
     <ClCompile Include="C011_loop.c" />
     <ClCompile Include="C012_arr.c" />
+    <ClCompile Include="C013_Str.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
