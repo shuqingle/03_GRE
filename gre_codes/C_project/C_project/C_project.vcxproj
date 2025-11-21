@@ -136,6 +136,13 @@
     <ClCompile Include="C011_loop.c" />
     <ClCompile Include="C012_arr.c" />
     <ClCompile Include="C013_Str.c" />
+    <ClCompile Include="C014_arrptr.c" />
+    <ClCompile Include="C015_func.c" />
+    <ClCompile Include="C016_mem.c" />
+    <ClCompile Include="function.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

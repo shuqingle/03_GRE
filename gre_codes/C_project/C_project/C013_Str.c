@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 
-int main(void) {
+int main013(void) {
 	char a[] = "A";
 	char b[] = "B";
 	int result = strcmp(a, b);
