@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-int main(void) {
+int main016(void) {
 	int arr[] = { 1,2,3 };
 	int arr2[] = { 1,2,3 };
 	int* my = (int*)malloc(sizeof(int) * 3);
 	memcpy(my, arr, sizeof(int) * 3);
-	memmov(my, arr, sizeof(int) * 3);
+	//memmov(my, arr, sizeof(int) * 3);
 	for (int i = 0; i < 3; i++) {
 		printf("%d\n", my[i]);
 	}
