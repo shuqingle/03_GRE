@@ -141,6 +141,9 @@
     <ClCompile Include="C016_mem.c" />
     <ClCompile Include="C017_PTR1.c" />
     <ClCompile Include="C018_PTR2.c" />
+    <ClCompile Include="C019_Struct.c" />
+    <ClCompile Include="C020_Union.c" />
+    <ClCompile Include="C021_Enum.c" />
     <ClCompile Include="function.c" />
   </ItemGroup>
   <ItemGroup>

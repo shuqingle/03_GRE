@@ -33,7 +33,7 @@ int* createArr(int size) {
 	return arr;
 }
 
-int main(void) {
+int main018(void) {
 	int a[] = { 1,2,3 };
 	int b[] = { 4,5,6 };
 	int c[] = { 7,8,9 };
