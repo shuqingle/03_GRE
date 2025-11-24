@@ -144,10 +144,14 @@
     <ClCompile Include="C019_Struct.c" />
     <ClCompile Include="C020_Union.c" />
     <ClCompile Include="C021_Enum.c" />
+    <ClCompile Include="C022_File.c" />
     <ClCompile Include="function.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="function.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="example.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

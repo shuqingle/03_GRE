@@ -6,7 +6,7 @@ typedef enum {
 	GREEN = 7
 } Traffic;
 
-int main(void) {
+int main021(void) {
 	Traffic light = RED;
 	switch (light) {
 	case RED:
