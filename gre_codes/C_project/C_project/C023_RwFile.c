@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-int main(void) {
+int main023(void) {
 	FILE* fp;
 	char buffer[100];
 	char name[50];

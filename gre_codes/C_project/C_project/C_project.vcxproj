@@ -146,6 +146,12 @@
     <ClCompile Include="C021_Enum.c" />
     <ClCompile Include="C022_File.c" />
     <ClCompile Include="C023_RwFile.c" />
+    <ClCompile Include="C024_charFile.c" />
+    <ClCompile Include="C025_BinaryFile.c" />
+    <ClCompile Include="C026_ByteFile.c" />
+    <ClCompile Include="C027_Fseek.c" />
+    <ClCompile Include="C028_feof.c" />
+    <ClCompile Include="C029_srcdes.c" />
     <ClCompile Include="function.c" />
   </ItemGroup>
   <ItemGroup>
@@ -153,7 +159,14 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="111.txt" />
+    <Text Include="222.txt" />
+    <Text Include="777.txt" />
+    <Text Include="888.txt" />
     <Text Include="example.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="333.bin" />
+    <None Include="555.bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
