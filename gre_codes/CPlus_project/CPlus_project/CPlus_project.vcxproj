@@ -126,6 +126,7 @@
     <ClCompile Include="CPP001_Hello.cpp" />
     <ClCompile Include="CPP002_type.cpp" />
     <ClCompile Include="CPP003_compute.cpp" />
+    <ClCompile Include="CPP004_arr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

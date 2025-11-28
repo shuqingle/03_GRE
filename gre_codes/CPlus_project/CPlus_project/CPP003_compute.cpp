@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(void) {
+int main003(void) {
 	float a = 0.5f;
 	double b = 0.25;
 	cout << "result==" << a / b << endl;
