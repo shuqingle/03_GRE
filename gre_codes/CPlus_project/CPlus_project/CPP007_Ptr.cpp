@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(void) {
+int main007(void) {
 	int a = 10;
 	int* ptr;
 	ptr = &a;
