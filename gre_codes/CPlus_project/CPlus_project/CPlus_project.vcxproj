@@ -129,6 +129,7 @@
     <ClCompile Include="CPP004_arr.cpp" />
     <ClCompile Include="CPP005_TwoArr.cpp" />
     <ClCompile Include="CPP006_Func.cpp" />
+    <ClCompile Include="CPP007_Ptr.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>
