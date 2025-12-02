@@ -30,7 +30,7 @@ void printArr(int arr[], int len) {
 		cout << arr[i] << " ";
 	}
 }
-int main(void) {
+int main009(void) {
 
 	int a = 20;
 	int b = 10;
