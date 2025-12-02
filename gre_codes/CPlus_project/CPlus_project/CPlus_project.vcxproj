@@ -131,9 +131,11 @@
     <ClCompile Include="CPP006_Func.cpp" />
     <ClCompile Include="CPP007_Ptr.cpp" />
     <ClCompile Include="CPP008_Const.cpp" />
+    <ClCompile Include="CPP009_ptr.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CPP009_ptr.h" />
     <ClInclude Include="Util.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
