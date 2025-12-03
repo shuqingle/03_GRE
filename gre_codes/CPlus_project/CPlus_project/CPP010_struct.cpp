@@ -25,7 +25,7 @@ void print3(const Student* stu) {
 	cout << "姓名==" << stu->name << ";年龄==" << stu->age << ";得分==" << stu->score << endl;
 }
 
-int main(void) {
+int main010(void) {
 	struct Student st1;
 	st1.name = "张三";
 	st1.age = 18;

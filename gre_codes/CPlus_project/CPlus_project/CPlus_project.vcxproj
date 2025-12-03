@@ -133,6 +133,7 @@
     <ClCompile Include="CPP008_Const.cpp" />
     <ClCompile Include="CPP009_ptr.cpp" />
     <ClCompile Include="CPP010_struct.cpp" />
+    <ClCompile Include="CPP011_Mem.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>
