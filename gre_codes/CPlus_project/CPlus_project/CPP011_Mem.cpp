@@ -7,7 +7,7 @@ int g_b = 10;
 //全局常量
 const int c_g_a = 10;
 const int c_g_b = 10;
-int main(void) {
+int main011(void) {
 	//局部变量
 	int a = 10;
 	int b = 10;

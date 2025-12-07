@@ -134,6 +134,9 @@
     <ClCompile Include="CPP009_ptr.cpp" />
     <ClCompile Include="CPP010_struct.cpp" />
     <ClCompile Include="CPP011_Mem.cpp" />
+    <ClCompile Include="CPP012_run.cpp" />
+    <ClCompile Include="CPP013_new.cpp" />
+    <ClCompile Include="CPP014_ref.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>
