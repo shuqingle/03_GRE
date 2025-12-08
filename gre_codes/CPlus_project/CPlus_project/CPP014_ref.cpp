@@ -1,24 +1,43 @@
 #include<iostream>
 using namespace std;
 
-void youSwap(int& a,int& b) {
-	int temp = a;
-	a = b;
-	b = temp;
+//void youSwap(int& a,int& b) {
+//	int temp = a;
+//	a = b;
+//	b = temp;
+//}
+//
+//int& test01() {
+//	int a = 10;
+//	return a;
+//}
+//
+//int& test02() {
+//	static int a = 20;
+//	return a;
+//}
+
+void f1(int& ref) {
+	ref = 100;
+}
+void f2(const int& ref) {
+	//ref = 200;
+	cout << ref << endl;
 }
 
-int& test01() {
-	int a = 10;
-	return a;
-}
-
-int& test02() {
-	static int a = 20;
-	return a;
-}
 
 int main(void) {
 	int a = 10;
+	//ref是指针常量
+	int& ref = a;
+	ref = 20;
+	cout << "a:" << a << endl;
+	cout << "ref:" << ref << endl;
+	f1(ref);
+	cout << ref << endl;
+	f2(ref);
+
+	/*int a = 10;
 	int& b = a;
 	cout << a << endl;
 	cout << b << endl;
@@ -51,7 +70,7 @@ int main(void) {
 	cout << "ref2 == " << ref2 << endl;
 	test02() = 1000;
 	cout << "ref2 == " << ref2 << endl;
-	cout << "ref2 == " << ref2 << endl;
+	cout << "ref2 == " << ref2 << endl;*/
 
 	return 0;
 }
