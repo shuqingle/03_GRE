@@ -137,6 +137,7 @@
     <ClCompile Include="CPP012_run.cpp" />
     <ClCompile Include="CPP013_new.cpp" />
     <ClCompile Include="CPP014_ref.cpp" />
+    <ClCompile Include="CPP015_HFun.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>

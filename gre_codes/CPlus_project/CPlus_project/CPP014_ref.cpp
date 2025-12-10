@@ -26,7 +26,7 @@ void f2(const int& ref) {
 }
 
 
-int main(void) {
+int main014(void) {
 	int a = 10;
 	//ref是指针常量
 	int& ref = a;
