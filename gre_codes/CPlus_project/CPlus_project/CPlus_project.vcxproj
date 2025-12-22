@@ -140,6 +140,8 @@
     <ClCompile Include="CPP015_HFun.cpp" />
     <ClCompile Include="CPP016_Reload.cpp" />
     <ClCompile Include="CPP017_Circle.cpp" />
+    <ClCompile Include="CPP018_Construct.cpp" />
+    <ClCompile Include="CPP019_Cs.cpp" />
     <ClCompile Include="Util.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -48,7 +48,7 @@ public:
 	}
 };
 
-int main() {
+int main017() {
 	Circle c1;
 	c1.r = 10;
 	cout << "zc==" << c1.calZc() << endl;
