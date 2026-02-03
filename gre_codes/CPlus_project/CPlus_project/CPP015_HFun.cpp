@@ -16,7 +16,7 @@ int flys(int b) {
 	cout << "b==" << b << endl;
 	return b;
 }
-int main(void) {
+int main015(void) {
 	cout << "ret==" << func(20, 20) << endl;
 	cout << "ret2 == " << func(100) << endl;
 	flys(10, 10);
